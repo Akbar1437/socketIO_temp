@@ -1,0 +1,24 @@
+.sidebar {
+    height: 100%;
+    background-color: #ffff;
+    flex: 0.2;
+    padding: 2rem;
+    border-right: 1px solid #bfbdbd;
+}
+
+.header {
+    margin: 3rem 0 2rem 0;
+    font-size: 2.5rem;
+}
+
+.users {
+    margin-bottom: 1rem;
+    color: #607eaa;
+    font-size: 1.4rem;
+    list-style: none;
+}
+
+.users>li {
+    margin-bottom: 2rem;
+    cursor: pointer;
+}
